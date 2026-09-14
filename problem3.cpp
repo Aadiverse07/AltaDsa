@@ -16,7 +16,6 @@ int main()
     a = b;
     b = temporary;
 
-    // After swapping
     cout << "After swap: a = " << a << endl;
     cout << "After swap: b = " << b << endl;
 
